@@ -1,6 +1,7 @@
 Copyright 2015-2020
 Silvio Peroni (silvio.peroni@opencitations.net)
 David Shotton (david.shotton@opencitations.net)
+Chiara Di Gianbattista (chiar.digiambattista@studio.unibo.it)
 
 Attribution-No Derivatives 4.0 International (CC BY-ND 4.0)
 https://creativecommons.org/licenses/by-nd/4.0/legalcode
